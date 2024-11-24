@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GottaGetPaid)](https://github.com/GottaGetPaid/GottaGetPaid&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GottaGetPaid&layout=compact)](https://github.com/GottaGetPaid/GottaGetPaid)
